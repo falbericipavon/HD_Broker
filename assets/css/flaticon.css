@@ -28,7 +28,13 @@
         font-size: 14px;
 font-style: normal;
 }
-
+[class^="flaticon-arow"]:before, [class*=" flaticon-arow"]:before,
+[class^="flaticon-arow"]:after, [class*=" flaticon-arow"]:after{
+    font-family: Flaticon;
+    font-size: 19px;
+    font-weight: 500;
+    font-style: normal;
+}
 .flaticon-phone:before { content: "\f100"; }
 .flaticon-mail:before { content: "\f101"; }
 .flaticon-clock:before { content: "\f102"; }
