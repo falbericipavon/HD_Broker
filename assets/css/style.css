@@ -24,6 +24,17 @@ body {
     float: right
 }
 
+.desarrollo_web {
+    color: white;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+}
+
+.desarrollo_web:hover {
+    color: #0a75b3;
+}
+
 .fix {
     overflow: hidden;
 }
