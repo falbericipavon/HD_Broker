@@ -25,14 +25,14 @@ body {
 }
 
 .desarrollo_web {
-    color: white;
+    color: #0a75b3;
     font-size: 15px;
     font-family: 'Lato', sans-serif;
     font-weight: normal;
 }
 
 .desarrollo_web:hover {
-    color: #0a75b3;
+    color: white;
 }
 
 .fix {
